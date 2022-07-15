@@ -18,3 +18,5 @@ mvcna(df,con=0.9,cov=0.9,ordering=list("T","PB"))
 #foi colocado con=0.9 e cov =0.9, e ordering ("C","PB") e ("T","PB"), foi
 #alcançado alguns resultados com o outcome PB, inclusive o resultado com 
 #maior robustez de todos os outcomes, mencionado nesse texto
+
+#Modificações
